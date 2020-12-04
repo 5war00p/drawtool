@@ -1,2 +1,3 @@
 # drawtool.py
-It's a custom written python file to change, edit, crop images
+Simplified tools for drawing via Matplotlib and Tkinter
+Also has image features: reading, conversions, pixels
